@@ -1,0 +1,83 @@
+*.yml filter=lfs diff=lfs merge=lfs -text
+*.gitignore filter=lfs diff=lfs merge=lfs -text
+*.name filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+*.iml filter=lfs diff=lfs merge=lfs -text
+*.gitkeep filter=lfs diff=lfs merge=lfs -text
+*.lock filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/.metadata/.mylyn/.taskListIndex/segments_1 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.version filter=lfs diff=lfs merge=lfs -text
+*.index filter=lfs diff=lfs merge=lfs -text
+*.tree filter=lfs diff=lfs merge=lfs -text
+*.resources filter=lfs diff=lfs merge=lfs -text
+*.xmi filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.setup filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/.metadata/.plugins/org.eclipse.ui.intro/introstate filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
+*.java filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.properties filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.class filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/bin/mvnw filter=lfs diff=lfs merge=lfs -text
+*.cmd filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+/BackEnd/ChessDatabase/doc/package-list filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
+*.css filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.fnt filter=lfs diff=lfs merge=lfs -text
+*.atlas filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.gradle filter=lfs diff=lfs merge=lfs -text
+*.pro filter=lfs diff=lfs merge=lfs -text
+/Experiments/Connor/ChessGameScreenFlow/gradlew filter=lfs diff=lfs merge=lfs -text
+*.bat filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+/Experiments/Connor/Old/BasicScreenTest/gradlew filter=lfs diff=lfs merge=lfs -text
+/Experiments/Connor/Old/experiment2/gradlew filter=lfs diff=lfs merge=lfs -text
+*.aseprite filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+/Experiments/Josh/test filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+*.classpath filter=lfs diff=lfs merge=lfs -text
+*.project filter=lfs diff=lfs merge=lfs -text
+*.prefs filter=lfs diff=lfs merge=lfs -text
+/Experiments/Michael/SpringExperiments/PetClinicExperiment/Spring/bin/mvnw filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
+*.eot filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.woff filter=lfs diff=lfs merge=lfs -text
+*.MF filter=lfs diff=lfs merge=lfs -text
+*.lst filter=lfs diff=lfs merge=lfs -text
+*.original filter=lfs diff=lfs merge=lfs -text
+*.keystore filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.ser filter=lfs diff=lfs merge=lfs -text
+*.gson filter=lfs diff=lfs merge=lfs -text
+*.dex filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JKuhA0JFnmWaenncnYEpMBAOhoc= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JqorUU_l+9UeQsrNuhY8Hj5s7kU= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Mj2ReKDdYM_ZOorbuhWGzX3XkWk= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/O1fYFcNNRNQ86j7vbqvozjlmtaE= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/b3x3otIZxzYmVf4jHQc6y_HIXMM= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qLB8GasKer9WGkYnPYXhDwhg9vg= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/debug-mergeJniLibs/merge-state filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/FwqDc9DBbGxEFvxk5mh0+4Ar5rc= filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_h3bTVI2ctFFuaNKzkv3udGv+9I= filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.ap_ filter=lfs diff=lfs merge=lfs -text
+*.flat filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+/FrontEnd/libGDX Chessboard/html/build/gwt/cache/gwt-unitCache/gwt-unitCache-7a87e060bbf129386b7ae772459fb9f87297c332-FF35F588CF7564DE259004F02565B00E-000001707E7377EB filter=lfs diff=lfs merge=lfs -text
